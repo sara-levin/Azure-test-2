@@ -27,3 +27,4 @@ jobs:
           name: app
           path: website/**
           if-no-files-found: error
+
